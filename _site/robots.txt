@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /https://syedhassanali.com/cdn-cgi/l/email-protection
+
+Sitemap: https://syedhassanali.com/sitemap.xml

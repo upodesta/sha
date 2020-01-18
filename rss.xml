@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Syed Hassan Ali</title>
+    <link>https://syedhassanali.com</link>
+    <description />
+    <item>
+      <guid>https://syedhassanali.com/</guid>
+      <title>Syed Hassan Ali</title>
+      <link>https://syedhassanali.com/</link>
+      <description>Syed Hassan Ali is an awesome front end web desiner and web developer. With his 11 years of experience, he take care almost every possible soluions for your unique online identity within a limited budget</description>
+    </item>
+    <item>
+      <guid>https://syedhassanali.com/contact</guid>
+      <title>OK</title>
+      <link>https://syedhassanali.com/contact</link>
+      <description />
+    </item>
+	    
+  </channel>
+</rss>
+

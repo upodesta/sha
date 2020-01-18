@@ -1,0 +1,21 @@
+
+# Name of your site (displayed in the header)
+name: Syed Hassan Ali
+title: Syed Hassan Ali
+language: html "en"
+email: me@syedhassanali.com
+
+# Short bio or description (displayed in the header)
+description: Syed Hassan Ali is an awesome front-end developer, UI/UX Designer and service provider for web hosting, free web hosting with free sub-domain, SEO, e-mail and digital marketing,  domain name registration. With his 11 years of experience, he can take care almost every possible solutions for your unique online identity within a limited budget
+keywords: Syed Hassan Ali, web designer, web developer, web hosting, domain name registration, e-mail marketing, social marketing, Search Engine Optimization (SEO), Data management, UI/UA designer, consultancy, free web hosting with Sub-domain, Dhaka, Bangladesh
+
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-66934702-18
+
+# Your website URL 
+# Used for Sitemap.xml and your RSS feed
+url: 
+     
+baseurl: 
+

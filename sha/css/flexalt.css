@@ -1,0 +1,19 @@
+.flex-direction-nav{
+	position:absolute;
+	top:0;
+	left:0px;
+	display:block;
+	height:47px;
+	width:100%;
+}
+
+.flex-direction-nav a {width: 47px; height: 47px; margin: 0px; display: none; position: absolute; top: 0%; cursor: pointer; opacity: 1; -webkit-transition: all .3s ease;text-indent:-9999px;}
+
+.flex-direction-nav .flex-next {right: 0px;background-image: url(../images/next.jpg);background-repeat: no-repeat;}
+.flex-direction-nav .flex-prev {left:0px;background-image: url(../images/prev.jpg);background-repeat: no-repeat;}
+
+ul.slides > li > img{
+	width:100%;
+	border:0px;
+	height:auto;
+}
